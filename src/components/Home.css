@@ -1,0 +1,22 @@
+.main-container{
+    flex-direction: row;
+    /* height:600px; */
+    background-image: url('../assets/backGroundImage/image1.jpg')
+
+};
+.container{
+ flex-direction:row;
+}
+
+.current-container{
+
+}
+
+.search-container{
+    position: relative;
+    background-color: burlywood;
+    width: 600px;
+    border-radius: 10px;
+    left: 50%;
+    top: 60px;
+}

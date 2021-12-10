@@ -1,0 +1,38 @@
+.container{
+    background-color: aliceblue;
+    width: 600px;
+    border-radius: 10px;
+    bottom: 90px;
+    position: relative;
+    left: 20px
+    
+
+};
+.heading{
+    flex-direction: row;
+    bottom: 20px;
+   
+
+}
+.city-time{
+    flex-direction: column;
+    bottom: 30px;
+    position: relative;
+   
+  
+}
+.time-date{
+    flex-direction: column;
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+}
+
+.weather-details{
+    flex-direction: row;
+    top: 80px;
+    position:relative;
+}
+.humidity{
+    flex-direction: column;
+}
